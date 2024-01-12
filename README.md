@@ -1,6 +1,6 @@
 ansible-vector
 =========
-![GitHub tag (latest by date)](https://img.shields.io/badge/tag-1.0.0-blue)
+![GitHub tag (latest by date)](https://img.shields.io/badge/tag-1.0.1-blue)
 [![Ansible Galaxy Vector](https://img.shields.io/badge/role-AlexeyD3.vector-blue.svg)](https://galaxy.ansible.com/AlexeyD3/vector/)
 [![Ansible Galaxy Clickhouse](https://img.shields.io/badge/role-AlexeyD3.clickhouse-yellow.svg)](https://galaxy.ansible.com/AlexeyD3/clickhouse/)
 [![Ansible Galaxy Lighthouse](https://img.shields.io/badge/role-AlexeyD3.lighthouse-yellow.svg)](https://galaxy.ansible.com/AlexeyD3/lighthouse/)
